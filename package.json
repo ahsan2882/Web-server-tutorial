@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ahsan2882/Web-server-tutorial/issues"
   },
-  "homepage": "https://github.com/ahsan2882/Web-server-tutorial#readme"
+  "homepage": "https://github.com/ahsan2882/Web-server-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
